@@ -1,6 +1,6 @@
 // StaxPayments.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
-#include "AppData.h"
+#include "..\StaxAppData\AppData.h"
 #include <iostream>
 #include <sstream>
 using std::cout;

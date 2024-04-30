@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaxPayments", "StaxPayments.vcxproj", "{2D03C7EE-2516-4F70-99D7-5977FB59422E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stax UnitTests", "..\Stax UnitTests\Stax UnitTests.vcxproj", "{323C42B0-27E9-48CF-A3B4-36A5BABA7A08}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaxAppData", "..\StaxAppData\StaxAppData.vcxproj", "{CB00B400-5300-4332-9F8A-9591F9451F86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{2D03C7EE-2516-4F70-99D7-5977FB59422E}.Release|x64.Build.0 = Release|x64
 		{2D03C7EE-2516-4F70-99D7-5977FB59422E}.Release|x86.ActiveCfg = Release|Win32
 		{2D03C7EE-2516-4F70-99D7-5977FB59422E}.Release|x86.Build.0 = Release|Win32
+		{323C42B0-27E9-48CF-A3B4-36A5BABA7A08}.Debug|x64.ActiveCfg = Debug|x64
+		{323C42B0-27E9-48CF-A3B4-36A5BABA7A08}.Debug|x64.Build.0 = Debug|x64
+		{323C42B0-27E9-48CF-A3B4-36A5BABA7A08}.Debug|x86.ActiveCfg = Debug|Win32
+		{323C42B0-27E9-48CF-A3B4-36A5BABA7A08}.Debug|x86.Build.0 = Debug|Win32
+		{323C42B0-27E9-48CF-A3B4-36A5BABA7A08}.Release|x64.ActiveCfg = Release|x64
+		{323C42B0-27E9-48CF-A3B4-36A5BABA7A08}.Release|x64.Build.0 = Release|x64
+		{323C42B0-27E9-48CF-A3B4-36A5BABA7A08}.Release|x86.ActiveCfg = Release|Win32
+		{323C42B0-27E9-48CF-A3B4-36A5BABA7A08}.Release|x86.Build.0 = Release|Win32
+		{CB00B400-5300-4332-9F8A-9591F9451F86}.Debug|x64.ActiveCfg = Debug|x64
+		{CB00B400-5300-4332-9F8A-9591F9451F86}.Debug|x64.Build.0 = Debug|x64
+		{CB00B400-5300-4332-9F8A-9591F9451F86}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB00B400-5300-4332-9F8A-9591F9451F86}.Debug|x86.Build.0 = Debug|Win32
+		{CB00B400-5300-4332-9F8A-9591F9451F86}.Release|x64.ActiveCfg = Release|x64
+		{CB00B400-5300-4332-9F8A-9591F9451F86}.Release|x64.Build.0 = Release|x64
+		{CB00B400-5300-4332-9F8A-9591F9451F86}.Release|x86.ActiveCfg = Release|Win32
+		{CB00B400-5300-4332-9F8A-9591F9451F86}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
