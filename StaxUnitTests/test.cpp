@@ -18,7 +18,7 @@ namespace StaxPayments
     TEST_METHOD(AddItemsVerifyTheyExist)
     {
       AppData myData;
-      int ids[] = { 0,3,5,7,5,8,10 };
+      int ids[] = { 0,3,5,7,8,10 };
       for (auto id : ids)
       {
         std::stringstream ss;
